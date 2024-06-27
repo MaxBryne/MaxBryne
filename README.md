@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **an AI Blind Stick Project**
 
+- 🌱 I’m currently learning **GEN-AI, LLMs and Django.**
+
 - 👨‍💻 You can check my LinkedIn profile at [www.linkedin.com/in/mayukh-chakraborty-189a68253](www.linkedin.com/in/mayukh-chakraborty-189a68253)
 
 - 💬 Ask me about **Neural Networks, Transformers, Algorithms, LLMs, GEN-AI etc.**
