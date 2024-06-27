@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **GEN-AI, LLMs and Django.**
 
-- 👨‍💻 You can check my LinkedIn profile at [www.linkedin.com/in/mayukh-chakraborty-189a68253](www.linkedin.com/in/mayukh-chakraborty-189a68253)
+- 👨‍💻 You can check my LinkedIn profile at [Mayukh Chakraborty](www.linkedin.com/in/mayukh-chakraborty)
 
 - 💬 Ask me about **Neural Networks, Transformers, Algorithms, LLMs, GEN-AI etc.**
 
