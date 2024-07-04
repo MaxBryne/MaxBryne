@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxbryne&label=Profile%20views&color=0e75b6&style=flat" alt="maxbryne" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxbryne" alt="maxbryne" /></a> </p>
-
 - 🔭 I’m currently working on **an AI Blind Stick Project**
 
 - 🌱 I’m currently learning **GEN-AI, LLMs and Django.**
@@ -18,6 +16,8 @@
 - 📫 How to reach me **chakrabortymayukh2002@gmail.com**
 
 - ⚡ Fun fact **My Intelligence is not "Artificial"**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxbryne" alt="maxbryne" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
