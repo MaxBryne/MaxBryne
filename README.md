@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxbryne&label=Profile%20views&color=0e75b6&style=flat" alt="maxbryne" /> </p>
 
-- 🔭 I’m currently working on **an AI Blind Stick Project**
+- 🔭 I’m currently working on **an AI Blind Stick Project** and **Virtual Reality**
 
 - 🌱 I’m currently learning **GEN-AI, LLMs and Django.**
 
